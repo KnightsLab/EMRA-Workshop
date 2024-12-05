@@ -13,8 +13,7 @@ Each part includes a link to an interactive Google Colab notebook, so you can fo
 - Understand input modalities and ground truth labels.  
 - Use **SimpleITK** to inspect metadata, dimensions, spacing, and other characteristics of the 3D volumes.  
 
-🔗 **[Open in Colab](#)**  
-
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11c5ETEKO8eb3nChhsE0eEZZZz-hF_PJK?usp=copy)
 ---
 
 ## **Part 2 of 3: Training Loop**  
@@ -24,8 +23,7 @@ Each part includes a link to an interactive Google Colab notebook, so you can fo
 - Set up **TorchIO** for loading and augmenting 3D medical imaging datasets.  
 - Implement key components like evaluation metrics and training/validation loops.  
 
-🔗 **[Open in Colab](#)**  
-
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19CWNU8yAl8BplJQ-Q7pgMvQBsPp4azOM?usp=copy)
 ---
 
 ## **Part 3 of 3: Model Training**  
@@ -35,8 +33,7 @@ Each part includes a link to an interactive Google Colab notebook, so you can fo
 - Save the best model using checkpointing techniques.  
 - Gain practical experience in end-to-end model training with TorchIO.  
 
-🔗 **[Open in Colab](#)**  
-
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1q2L_77Zye46g9I_ZKlAeTNixDuVBvosP?usp=copy)
 ---
 
 ### How to Use  
