@@ -42,5 +42,12 @@ Each part includes a link to an interactive Google Colab notebook, so you can fo
 3. Make sure to set up your Google Drive for saving outputs and checkpoints as needed.  
 
 ---
+### Contact Us
 
-Feel free to fork this repository, share your results, and provide feedback! 😊  
+- Prof. Dr. Marwan Torki: mtorki@alexu.edu.eg
+- Dr. Marwa Baraka: marwa.baraka@alexu.edu.eg
+- Eng. Mahmoud Gamal: m.gamal@alexu.edu.eg
+
+---
+Feel free to use this content, mention us, and provide feedback! 😊  
+
