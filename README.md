@@ -36,6 +36,14 @@ Each part includes a link to an interactive Google Colab notebook, so you can fo
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1q2L_77Zye46g9I_ZKlAeTNixDuVBvosP?usp=copy)
 ---
 
+## YOLO: Deep Dive
+📚 **Objective:**
+- Uses YOLO to detect teeth in panoramic images for dental diagnosis.  
+- Covers model loading, inference, and visualization.  
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1X2zBpje7eyCPKVGaQ8S5wNd3ph6U-F0J?usp=copy)
+---
+
 ### How to Use  
 1. Click on the "Open in Colab" link for each part to launch the corresponding notebook.  
 2. Follow the instructions in the notebook to complete the exercises.  
